@@ -12,10 +12,10 @@ In response to the growing concern surrounding alcohol consumption and its impac
 Youtube Link: https://youtu.be/w2QtJwZPw3g
 
 
-<img width="80" alt="image" src="https://github.com/avinashpittu/Projects/assets/133165582/f60e9492-ba0a-498f-8b79-bcf7fbf3abd1">
+<img width="382" alt="image" src="https://github.com/avinashpittu/Projects/assets/133165582/f60e9492-ba0a-498f-8b79-bcf7fbf3abd1">
 
 
-<img width="270" alt="image" src="https://github.com/avinashpittu/Projects/assets/133165582/54e52634-26c5-44cd-b9cc-c14e0896509f">
+<img width="382" alt="image" src="https://github.com/avinashpittu/Projects/assets/133165582/54e52634-26c5-44cd-b9cc-c14e0896509f">
 
 
 <img width="382" alt="image" src="https://github.com/avinashpittu/Projects/assets/133165582/54b9b01e-1649-4bcd-8aa1-cbac74b2aece">
