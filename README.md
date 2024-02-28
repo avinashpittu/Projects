@@ -34,3 +34,14 @@ Feel free to modify the script and Dockerfile to suit your needs.
 
 Video Output:
 [![Voice recognition Output](https://img.youtube.com/vi/sRqkT-Q5428)](https://www.youtube.com/watch?v=sRqkT-Q5428)
+
+
+UI Pictures:
+
+![image](https://github.com/avinashpittu/Projects/assets/133165582/f059a65c-e8fe-4ac4-89ca-6769982cb18e)
+
+![image](https://github.com/avinashpittu/Projects/assets/133165582/e208386d-bcd6-4866-9684-dc795cc851f4)
+
+![image](https://github.com/avinashpittu/Projects/assets/133165582/86cee3e3-bd60-4d0d-99bf-05c53df6ac05)
+
+
