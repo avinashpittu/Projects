@@ -72,11 +72,7 @@ This document explains how to build and run a Docker image containing a head mov
 
 Video Output:
 
-
-
-
-
-https://github.com/avinashpittu/Projects/assets/133165582/eb11ebaa-bbfd-4d0f-acc0-e98b79309e1c
+[![Facial recognition output](https://img.youtube.com/vi/dXo9USB3m6k)](https://www.youtube.com/watch?v=dXo9USB3m6k)
 
 
 
