@@ -1,0 +1,20 @@
+Question: Are Aliens Real?
+Response: Unable to Process, Try again
+Timestamp: 2024-02-27 21:34:52.517703
+
+Question: Are Aliens Real?
+Response: No
+Timestamp: 2024-02-27 21:35:12.004526
+
+Question: Are Aliens Real?
+Response: Unable to Process, Try again
+Timestamp: 2024-02-27 21:35:12.619268
+
+Question: Are Aliens Real?
+Response: Yes
+Timestamp: 2024-02-27 21:35:22.420163
+
+Question: Are Aliens Real?
+Response: Unable to Process, Try again
+Timestamp: 2024-02-27 21:35:22.631295
+
