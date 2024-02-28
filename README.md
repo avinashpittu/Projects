@@ -67,3 +67,12 @@ This document explains how to build and run a Docker image containing a head mov
 7. Your response ("Yes" or "No") and a timestamp will be logged to a file named `interaction_log.txt` inside the container.
 
 8. You can exit the container by typing `exit`.
+
+
+
+Video Output:
+
+
+https://github.com/avinashpittu/Projects/assets/133165582/a4896d11-c356-4833-86fa-25d69817c34e
+
+
