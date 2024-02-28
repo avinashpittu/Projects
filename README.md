@@ -75,4 +75,8 @@ Video Output:
 [![Facial recognition output](https://img.youtube.com/vi/dXo9USB3m6k)](https://www.youtube.com/watch?v=dXo9USB3m6k)
 
 
+Running and output:
+
+https://github.com/avinashpittu/Projects/assets/133165582/cbad27e7-0d9f-4891-ad85-cd2317a86199
+
 
