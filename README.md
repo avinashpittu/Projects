@@ -30,3 +30,7 @@ This script uses speech recognition to ask a question and record the user's resp
 - The script uses the `speech_recognition`, `pyttsx3`, and `tkinter` libraries for speech recognition, text-to-speech conversion, and GUI respectively.
 
 Feel free to modify the script and Dockerfile to suit your needs.
+
+
+Video Output:
+[![Voice recognition Output](https://img.youtube.com/vi/sRqkT-Q5428)](https://www.youtube.com/watch?v=sRqkT-Q5428)
