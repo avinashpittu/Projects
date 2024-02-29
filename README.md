@@ -25,9 +25,21 @@ This project is a clone of the popular website Stack Overflow, developed using t
 To run this project locally, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/avinashpittu/Projects.git`
-2. Install dependencies: `npm install`
-3. Start the server: `npm start`
-4. Open your browser and navigate to `http://localhost:3000`
+2. Go to Clients directory
+3. Install dependencies: `npm install`
+4. Start the server: `npm start`
+5. Open your browser and navigate to `http://localhost:3000`
+
+## Few Images
+
+<img width="1707" alt="Screenshot 2024-02-29 at 17 29 22" src="https://github.com/avinashpittu/Projects/assets/133165582/8142f454-9aa4-4d47-aa6b-4ebc05cf867f">
+
+<img width="1707" alt="Screenshot 2024-02-29 at 17 29 14" src="https://github.com/avinashpittu/Projects/assets/133165582/dcf36ef0-2da8-4a8d-9e1c-df12c89c64b0">
+
+<img width="1707" alt="Screenshot 2024-02-29 at 17 28 24" src="https://github.com/avinashpittu/Projects/assets/133165582/dfadec9f-7976-41e9-815f-c01e8e24070e">
+
+<img width="1707" alt="Screenshot 2024-02-29 at 17 28 13" src="https://github.com/avinashpittu/Projects/assets/133165582/06652545-8361-4ee0-8467-0449321ccc63">
+   
 
 ## Contributing
 
