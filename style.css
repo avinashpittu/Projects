@@ -318,6 +318,8 @@ section {
 
 #experience {
   position: relative;
+  min-height: 0;
+  height: auto;
 }
 
 .experience-sub-title {
@@ -357,6 +359,10 @@ article .icon {
 
 #projects {
   position: relative;
+  min-height: 0;
+  height: auto;
+  width: fit-content;
+  margin: 5rem;
 }
 
 .color-container {
